@@ -1,0 +1,12 @@
+{
+  "products": [
+    {"id":"w-001","name":"The Sunday Shirt","category":"women","type":"Relaxed cotton poplin","color":"Cloud","price":8900,"image":"https://images.unsplash.com/photo-1598554747436-c9293d6a588f?auto=format&fit=crop&w=900&q=85","badge":"Bestseller"},
+    {"id":"m-001","name":"Form Trouser","category":"men","type":"Tailored organic cotton","color":"Olive","price":14800,"image":"https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&q=85","badge":"New"},
+    {"id":"w-002","name":"Soft Structure Blazer","category":"women","type":"Linen blend, softly tailored","color":"Ink","price":22800,"image":"https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=85","badge":"New"},
+    {"id":"u-001","name":"Everyday Knit","category":"unisex","type":"Merino-cotton crewneck","color":"Red clay","price":12400,"image":"https://images.unsplash.com/photo-1627225924765-552d49cf47ad?auto=format&fit=crop&w=900&q=85","badge":""},
+    {"id":"m-002","name":"Weekend Overshirt","category":"men","type":"Brushed recycled twill","color":"Ecru","price":17200,"image":"https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85","badge":"Bestseller"},
+    {"id":"w-003","name":"The Longline Coat","category":"women","type":"Recycled wool blend","color":"Charcoal","price":29800,"image":"https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=85","badge":""},
+    {"id":"m-003","name":"Daily Oxford","category":"men","type":"Washed organic cotton","color":"Pale blue","price":9200,"image":"https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?auto=format&fit=crop&w=900&q=85","badge":""},
+    {"id":"u-002","name":"Utility Tote","category":"unisex","type":"Deadstock canvas","color":"Tomato","price":4800,"image":"https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85","badge":"Small run"}
+  ]
+}
