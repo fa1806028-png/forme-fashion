@@ -23,4 +23,6 @@ Product photography is served from Unsplash; an internet connection is needed to
 
 ## GitHub Pages portfolio
 
-The `main` branch deploys the `static/` directory using `.github/workflows/pages.yml`. Enable GitHub Actions as the Pages source in the repository's Pages settings. Pages is static hosting, so its checkout is a clearly labeled demo and does not save orders or process payments. Run `python app.py` locally for the full SQLite-backed checkout.
+Live site: https://fa1806028-png.github.io/forme-fashion/
+
+The `main` branch deploys the `static/` directory using `.github/workflows/pages.yml`. Pages is static hosting, so its checkout is a clearly labeled demo and does not save orders or process payments. Run `python app.py` locally for the full SQLite-backed checkout.
