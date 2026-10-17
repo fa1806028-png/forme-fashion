@@ -16,9 +16,7 @@ DATABASE = ROOT / "store.db"
 HOST = "127.0.0.1"
 PORT = 8000
 
-PRODUCTS = [
-    json.loads((STATIC_ROOT / "products.json").read_text(encoding="utf-8"))["products"]
-]
+PRODUCTS = json.loads((STATIC_ROOT / "products.json").read_text(encoding="utf-8"))["products"]
 PRODUCT_BY_ID = {product["id"]: product for product in PRODUCTS}
 
 
